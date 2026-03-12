@@ -35,8 +35,7 @@ The dashboard includes the following visualizations:
 - Sales show noticeable changes across different months.
 
 ## Dashboard Link
-Paste your Tableau Public dashboard link here.
-
+https://public.tableau.com/views/BusinessSalesPerformanceDashboard_17733078241710/BusinessSalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Project Files
 - Dataset (CSV file)
 - Dashboard Screenshot
